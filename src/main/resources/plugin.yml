@@ -1,0 +1,4 @@
+name: ZombieDiamondDrop
+version: '${project.version}'
+main: me.dawg.zombiediamonddrop.ZombieDiamondDrop
+api-version: 1.19

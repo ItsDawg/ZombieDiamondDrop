@@ -1,0 +1,4 @@
+name: ZombieDiamondDrop
+version: '1.0-SNAPSHOT'
+main: me.dawg.zombiediamonddrop.ZombieDiamondDrop
+api-version: 1.19

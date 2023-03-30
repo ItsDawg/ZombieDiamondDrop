@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ZombieDiamondDrop:jar">
+    <output-path>$PROJECT_DIR$/../localhost/plugins</output-path>
+    <root id="archive" name="ZombieDiamondDrop.jar">
+      <element id="module-output" name="ZombieDiamondDrop" />
+    </root>
+  </artifact>
+</component>
